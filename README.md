@@ -6,14 +6,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Project Featured on the official [Flutter Webiste](https://flutter.dev/docs/deployment/cd).
+# Github Action in Angular Applications
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![](https://github.com/nabilnalakath/flutter-action/workflows/main.yml/badge.svg)
 [![pub package](https://img.shields.io/pub/v/badge.svg)](https://pub.dartlang.org/packages/badge)
 
-# Github Action in Angular Applications
 
 This is a sample angular project with CI-CD configuration using Github Actions.
 
