@@ -6,22 +6,21 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+Project Featured on the official [Flutter Webiste](https://flutter.dev/docs/deployment/cd).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Build
+![](https://github.com/nabilnalakath/flutter-action/workflows/main.yml/badge.svg)
+[![pub package](https://img.shields.io/pub/v/badge.svg)](https://pub.dartlang.org/packages/badge)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+# Github Action in Angular Applications
 
-## Running unit tests
+This is a sample angular project with CI-CD configuration using Github Actions.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+This project uses the following github actions -
 
-## Running end-to-end tests
+* https://github.com/actions/checkout
+* https://github.com/marketplace/actions/create-release
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+For a complete guide on implemenatation read the tutorial on [Medium](https://medium.com/better-programming/building-angular-apps-using-github-actions-bf916b56ed0c)
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
