@@ -1,6 +1,5 @@
 on: push
 name: Build Angular
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,7 +21,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - name: npm ci and npm run build
+      - name: npm install and npm run build
         run: |
           npm i
           npm run build:prod
